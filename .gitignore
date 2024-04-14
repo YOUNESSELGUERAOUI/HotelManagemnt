@@ -1,0 +1,11 @@
+# Ignorar a pasta .vs
+.vs/
+
+# Ignorar a pasta obj e bin
+obj/
+bin/
+
+# Ignorar arquivos compilados e de depuração
+*.dll
+*.exe
+*.pdb
